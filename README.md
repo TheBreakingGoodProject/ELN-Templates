@@ -4,7 +4,7 @@ Electronic laboratory notebooks offer many advantages for researchers working in
 
 This repository complements our work on using GitHub as an electronic laboratory notebook. We have designed a template for any researcher to use and adapt to their own work. To access the template, simply navigate to the [Issues](https://github.com/TheBreakingGoodProject/ELN-Templates/issues) page.
 
-Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook. We'd love to hear about your own experiences with it - feel free to jump on a [discussion board](LINK) to share your questions, tips and tricks or problems you've run into!
+Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook. We'd love to hear about your own experiences with it - feel free to jump on a [discussion board](https://github.com/TheBreakingGoodProject/ELN-Templates/discussions/2) to share your questions, tips and tricks or problems you've run into!
 
 # Our current work (updated 26 August 2022) 
 
