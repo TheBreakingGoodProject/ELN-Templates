@@ -2,15 +2,17 @@
 
 Electronic laboratory notebooks (ELNs) offer many advantages for researchers working in both industry and academia, including increased accessibility, version-control and improved data-sharing capacity. These traits make them particularly useful for collaborative projects in which researchers may be geographically distant but working closely with others.
 
-Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook and this repository complements our work on using GitHub as an ELN. We have designed this template repository for any researcher to fork and adapt to their own work. Each tab; code, issues, discussions, projects and wiki, has a template embedded to get you started but that can be adapted to suit your style, preferences and needs. 
+Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook and this repository complements our work on using GitHub as an ELN. We have designed this template repository for any researcher to adapt to their own work. Each tab; code, issues, discussions, projects and wiki, has a template embedded to get you started but that can be adapted to suit your style, preferences and needs. 
 
 You can find examples of GitHub-based ELN's [here](https://github.com/KlementineJBS/USYD_PhD_ELN) and [here](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie).
 
-To get started fork this repository to your own GitHub. Once you've forked this to your own GitHub, delete everything above the line below and edit the content below the line to include all the relevant information for your new ELN! Our notes on what to include and recommendations are given as code which you can also delete once you've filled in all the information.
+To get started create a new repository for your ELN. Once you've got your own going, move back and forth between this template repository and your own and edit the content you find here to include all the relevant information for your new ELN! Our notes on what to include and recommendations are given as code.
 
 We'd love to hear about your own experiences in using GitHub as your electronic laboratory notebook - feel free to jump on to the [discussion board](https://github.com/TheBreakingGoodProject/ELN-Templates/discussions/2) to share your questions, tips and tricks or problems you've run into!
 
 ---
+Your README.md should include the following:
+
 # Title 
 `Give your new ELN a name - make it descriptive`
 
