@@ -1,8 +1,8 @@
 # Welcome to the ELN template repository!
 
-Electronic laboratory notebooks offer many advantages for researchers working in both industry and academia, including increased accessibility, version-control and improved data-sharing capacity. These traits make them particularly useful for collaborative projects in which researchers may be geographically distant but working closely with others.
+Electronic laboratory notebooks (ELNs) offer many advantages for researchers working in both industry and academia, including increased accessibility, version-control and improved data-sharing capacity. These traits make them particularly useful for collaborative projects in which researchers may be geographically distant but working closely with others.
 
-Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook and this repository complements our work on using GitHub as an electronic laboratory notebook. We have designed this template repository for any researcher to fork and adapt to their own work. Each tab; code, issues, discussions, projects and wiki, has a template embedded to get you started but that can be adapted to suit your style, preferences and needs. 
+Our aim is to encourage the use of GitHub as a real-time, open and accessible lab notebook and this repository complements our work on using GitHub as an ELN. We have designed this template repository for any researcher to fork and adapt to their own work. Each tab; code, issues, discussions, projects and wiki, has a template embedded to get you started but that can be adapted to suit your style, preferences and needs. 
 
 You can find examples of GitHub-based ELN's [here](https://github.com/KlementineJBS/USYD_PhD_ELN) and [here](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie).
 
