@@ -11,21 +11,21 @@ We'd love to hear about your own experiences in using GitHub as your electronic 
 ---
 First up create a README.md file for your ELN. Your README.md should include the following:
 
-# Title `Give your new ELN a name - make it descriptive`
+## Title `Give your new ELN a name - make it descriptive`
 
-## Background Information
+### Background Information
 
 `Provide a little information about the ELN owner/s and/or user/s and the projects they are working on which will be held in the ELN. Share links to GitHub profiles and other external website. Note when the ELN became active or if it is not longer in use.'
 
 `Explain how a newcomer might navigate your ELN. We recommend using the Wiki as a central stop for visitors (don't forget to link to it) and linking through from there to other locations in the ELN.`
 
 ---
-## Experimental Identifiers
+### Experimental Identifiers
 
 `Explain how your experiments will be identified. Please identify experiments in a way that suits you and explain it in detail here. See the two example ELNs above for some inspiration`
 
 ---
-## ELN pages
+### ELN pages
 
 `You may want to keep the following text as is written as it is quite general and links to the more specifics through the labels tab`
 
@@ -34,14 +34,14 @@ On the main issues page, issues are sorted into _open_ and _closed_. _Open_ issu
 Issues are labelled with labels that describe the aim and status with descriptions of these labels contained in the [labels tab](link here to your labels tab).
 
 ---
-## Data
+### Data
 
 `You may wish to add your data to the ELN pages or have a central location for all the data you collect in your projects. As a central location you can use the code tab which allows you to see up a filing system like what you would on your computer. We recommend filing data in folders names after the experiment identifier.`
 
 `Whatever you decided, explain it here for those visiting and who might be looking for it.`
 
 ---
-## `Add in any other information that is important to your ELN :)`
+### `Add in any other information that is important to your ELN :)`
 
 ---
 
