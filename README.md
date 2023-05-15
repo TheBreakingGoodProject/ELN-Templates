@@ -32,10 +32,16 @@ On the main issues page, issues are sorted into _open_ and _closed_. _Open_ issu
 
 Issues are labelled with labels that describe the aim and status with descriptions of these labels contained in the [labels tab](link here to your labels tab).
 
+---
 ## Data
 
 `You may wish to add your data to the ELN pages or have a central location for all the data you collect in your projects. As a central location you can use the code tab which allows you to see up a filing system like what you would on your computer. We recommend filing data in folders names after the experiment identifier.`
 
 `Whatever you decided, explain it here for those visiting and who might be looking for it.`
 
+---
 ## `Add in any other information that is important to your ELN :)`
+
+---
+
+`Lastly, consider a [Creative Commons License](https://creativecommons.org/about/cclicenses/) or similar for your ELN`
