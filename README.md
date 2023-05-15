@@ -16,7 +16,7 @@ We'd love to hear about your own experiences in using GitHub as your electronic 
 
 `Provide a little information about the ELN owner/s and/or user/s and the projects they are working on which will be held in the ELN. Share links to GitHub profiles and other external website.`
 
-`Explain how a new comer might navigate your ELN. We recommend using the Wiki as a central stop for visitors (don't forget to link to it) and linking through from there to other locations in the ELN.`
+`Explain how a newcomer might navigate your ELN. We recommend using the Wiki as a central stop for visitors (don't forget to link to it) and linking through from there to other locations in the ELN.`
 
 ---
 ## Experimental Identifiers
@@ -34,8 +34,8 @@ Issues are labelled with labels that describe the aim and status with descriptio
 
 ## Data
 
-`You may wish to add your data to the ELN pages or have a central location for all the data you collect in your projects. As a central location you can use the code tab which allows you to see up a filing system similar to what you would on your computer. We recommend filing data in folders names after the experiment identifier.`
+`You may wish to add your data to the ELN pages or have a central location for all the data you collect in your projects. As a central location you can use the code tab which allows you to see up a filing system like what you would on your computer. We recommend filing data in folders names after the experiment identifier.`
 
-`What ever you decided, explain it here for those visiting and who might be looking for it.`
+`Whatever you decided, explain it here for those visiting and who might be looking for it.`
 
 ## `Add in any other information that is important to your ELN :)`
