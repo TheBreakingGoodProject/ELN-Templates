@@ -9,7 +9,7 @@ To get started create a new repository for your ELN. Once you've got your own go
 We'd love to hear about your own experiences in using GitHub as your electronic laboratory notebook - feel free to jump on to the [discussion board](https://github.com/TheBreakingGoodProject/ELN-Templates/discussions/2) to share your questions, tips and tricks or problems you've run into!
 
 ---
-Your README.md should include the following:
+First up create a README.md file for your ELN. Your README.md should include the following:
 
 # Title `Give your new ELN a name - make it descriptive`
 
