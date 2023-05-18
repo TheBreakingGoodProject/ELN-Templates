@@ -15,7 +15,7 @@ First up create a README.md file for your ELN. Your README.md should include the
 
 ### Background Information
 
-`Provide a little information about the ELN owner/s and/or user/s and the projects they are working on which will be held in the ELN. Share links to GitHub profiles and other external website. Note when the ELN became active or if it is not longer in use.'
+`Provide a little information about the ELN owner/s and/or user/s and the projects they are working on which will be held in the ELN. Share links to GitHub profiles and other external website. Note when the ELN became active or if it is not longer in use.`
 
 `Explain how a newcomer might navigate your ELN. We recommend using the Wiki as a central stop for visitors (don't forget to link to it) and linking through from there to other locations in the ELN.`
 
